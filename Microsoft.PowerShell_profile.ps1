@@ -29,6 +29,12 @@ function js
 	cd "C:\Dev\JavaScript"
 }
 
+function ws
+{
+    param($Parameter1)
+    windsurf $Parameter1
+}
+
 # Powershell Prompt customization
 function prompt {
     $branch = git branch --show-current 2>$null
