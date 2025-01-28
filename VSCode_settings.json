@@ -1,33 +1,31 @@
 {
-  "editor.inlineSuggest.enabled": true,
-  "terminal.integrated.env.windows": {},
-  "workbench.colorTheme": "Gruvbox Dark Medium",
-  "editor.wordWrap": "on",
-  "editor.renderWhitespace": "all",
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "console-ninja.featureSet": "Community",
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
-  "editor.fontSize": 16,
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
-  "workbench.tree.indent": 15,
-  "window.zoomLevel": 1,
-  "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false
-  },
-  "codeium.enableConfig": {
-    "*": false
-  },
-  "editor.tabSize": 4,
-  "chat.editing.alwaysSaveWithGeneratedChanges": true,
-  "prettier.tabWidth": 4
+    "editor.inlineSuggest.enabled": true,
+    "terminal.integrated.env.windows": {},
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "console-ninja.featureSet": "Community",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "workbench.tree.indent": 15,
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.minimap.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "codeium.enableConfig": {
+        "*": false
+    },
+    "editor.tabSize": 4,
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "prettier.tabWidth": 4
 }
