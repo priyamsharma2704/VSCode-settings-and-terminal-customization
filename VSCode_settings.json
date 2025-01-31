@@ -8,7 +8,7 @@
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
     "workbench.tree.indent": 15,
