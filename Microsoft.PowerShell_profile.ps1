@@ -1,4 +1,23 @@
 # from terminal type: code $PROFILE or notepad $PROFILE
+function aliases {
+    Write-Host "Available Shortcuts:" -ForegroundColor Green
+    Write-Host "===================" -ForegroundColor Green
+    Write-Host "ctt     : Run Chris Titus Windows script" -ForegroundColor Cyan
+    Write-Host "gs      : Git status" -ForegroundColor Cyan
+    Write-Host "ga      : Git add all changes" -ForegroundColor Cyan
+    Write-Host "gc      : Git commit with message" -ForegroundColor Cyan
+    Write-Host "next    : Change directory to NextJS projects" -ForegroundColor Cyan
+    Write-Host "react   : Change directory to React projects" -ForegroundColor Cyan
+    Write-Host "js      : Change directory to JavaScript projects" -ForegroundColor Cyan
+    Write-Host "ws      : Windsurf command" -ForegroundColor Cyan
+    Write-Host "aliases : Show this list of shortcuts" -ForegroundColor Cyan
+}
+
+
+function ctt{
+    irm "https://christitus.com/win" | iex
+}
+
 function gs
 {
 	git status
