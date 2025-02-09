@@ -28,7 +28,7 @@ function ga
 	git add .
 }
 
-function gc
+function gcom
 {
 	git commit -m "$args"
 }
