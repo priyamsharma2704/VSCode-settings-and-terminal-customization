@@ -1,0 +1,48 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "terminal.integrated.env.windows": {},
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.autofetch": true,
+    "terminal.integrated.stickyScroll.enabled": true,
+    "notebook.stickyScroll.enabled": true,
+    "workbench.tree.indent": 20,
+    "git.confirmSync": false,
+    "editor.indentSize": "tabSize",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none",
+    "codeium.enableConfig": {
+        "*": false
+    },
+    "hediet.vscode-drawio.resizeImages": null,
+    "prettier.tabWidth": 4,
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.env.linux": {},
+    "window.customTitleBarVisibility": "auto",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "css.format.braceStyle": "expand",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 15,
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+}
